@@ -43,3 +43,16 @@ footer{
     position: fixed;
     background: gray;
 }
+
+.film {
+    font-weight: bold;
+}
+
+.exemplo {
+    font-weight: bold;
+}
+
+.comedia {
+    width: 200px;
+    height: 200px;
+}
