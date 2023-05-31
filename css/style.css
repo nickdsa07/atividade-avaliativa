@@ -1,0 +1,45 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logoHeader{
+    width: 180px;
+    height: 180px;
+}
+
+nav{
+    position: relative;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.logoFooter{
+    width: 120px;
+    height: 120px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 150px;
+    bottom: 0;
+    position: fixed;
+    background: gray;
+}
